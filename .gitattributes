@@ -1,0 +1,9 @@
+* text=auto
+*.dart text
+*.yaml text
+*.json text
+*.lock text
+*.h text
+*.cc text
+*.swift text
+*.cmake text
